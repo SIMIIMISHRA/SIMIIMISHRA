@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SIMIIMISHRA
 - 👀 I’m interested in WEBDEVELOPENT.
-- 🌱 I’m currently workingon a website development to enhance my skills.
+- 🌱 I’m currently working on  a website development to enhance my skills.
 - 💞️ all my projects are available  at https://github.com//SIMIIMISHRA
 - 📫 How to reach me simimishra2006@gmail.com
 - 😄 ask me about WEBDEVELOPMENT.
